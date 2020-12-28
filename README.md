@@ -4,6 +4,11 @@
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Flutter stack**
+- I have done multiple projects ranging from **HTML,CSS JS,Python to  Jupyter Notebook**
+
+- I am currently brushing up my skills and planning to learn **cloud computing and IOT**
+
+- I love to contribute to **open-source projects**
 
 - 💬 Ask me about **my projects :)**
 
