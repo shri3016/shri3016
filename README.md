@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shriya</h1>
-<h3 align="center">I am a second year computer science engineering undergraduate.An aspiring Full-Stack Web Developer and a Competitive Programming Enthusiast.</h3>
+<h3 align="center">I am a third year computer science engineering undergraduate.An aspiring Full-Stack Web Developer and a Competitive Programming Enthusiast.</h3>
 
 - 🔭 I’m currently working on **Web Development**
 
