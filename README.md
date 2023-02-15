@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shriya</h1>
-<h3 align="center">I am a third year computer science engineering undergraduate.An aspiring Full-Stack Web Developer and a Competitive Programming Enthusiast.</h3>
+<h3 align="center">I am a final year computer science engineering undergraduate.An aspiring Data Scientist and a Full-Stack Web Developer.</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Data Science and Web Development**
 
 - 🌱 I’m currently learning **Flutter stack**
 - I have done multiple projects ranging from **HTML,CSS JS,Python to  Jupyter Notebook**
