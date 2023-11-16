@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shriya</h1>
-<h3 align="center">I am a  computer science graduate.An aspiring Data Scientist and a Full-Stack Web Developer.</h3>
+<h3 align="center">I am a  computer science graduate from Goa University.An aspiring Data Scientist and a Full-Stack Web Developer.</h3>
 
-- 🔭 I’m currently working on **Data Science and Web Development**
+- 🔭 I have worked on **Data Science and Web Development**
 
-- 🌱 I’m currently learning **Flutter stack**
+
 - I have done multiple projects ranging from **HTML,CSS JS,Python to  Jupyter Notebook**
 
-- I am currently brushing up my skills and planning to learn **cloud computing and IOT**
 
 - I love to contribute to **open-source projects**
 
